@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Sabrina Domingues
 - 👀 I’m interested in honing my skills.
-- 🌱 I’m currently learning Advanced Node.js, TypeScript and C#!
+- 🌱 I’m currently learning Advanced Node.js, TypeScript and React!
 - 📫 How to reach me:
   - Email: sabrinadomin14@gmail.com
   - WhatsApp: <a href = "https://wa.me/+5511966473336"> <img src="https://img.icons8.com/color/512/whatsapp.png" height = "20" width = "20" /> <a/>
